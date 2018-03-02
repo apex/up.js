@@ -51,8 +51,7 @@ class Logger {
   }
 
   write(log) {
-    const s = JSON.stringify(log)
-    this.w.write(s)
+    this.w.write(JSON.stringify(log))
   }
 }
 
