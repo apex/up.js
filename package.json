@@ -1,0 +1,19 @@
+{
+  "name": "up",
+  "version": "1.0.0",
+  "description": "Up",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava src/*_test.js"
+  },
+  "keywords": [
+    "up",
+    "apex",
+    "logging"
+  ],
+  "author": "tj@apex.sh",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^1.0.0-beta.3"
+  }
+}
