@@ -11,7 +11,7 @@ class TestWriter {
 	}
 }
 
-test('arrays are equal', t => {
+test('Logger', t => {
 	const w = new TestWriter
 	const log = new Logger(w)
 
