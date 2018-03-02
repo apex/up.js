@@ -10,7 +10,7 @@ $ npm install up
 
 ---
 
-[![GoDoc](https://godoc.org/github.com/apex/up.js?status.svg)](https://godoc.org/github.com/apex/up.js)
+[![Build Status](https://semaphoreci.com/api/v1/tj/up-js/branches/master/badge.svg)](https://semaphoreci.com/tj/up-js)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg)
 
