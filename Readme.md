@@ -10,7 +10,7 @@ $ npm install up
 
 ## Logging
 
-Up supports [structured logging](https://up.docs.apex.sh/#guides.mastering_logging.json) in the form of JSON written to stdout. To make this process a bit cleaner, up.js provides a `Logger` as shown here:
+Up supports [structured logging](https://up.docs.apex.sh/#guides.mastering_logging.json) in the form of JSON written to stdout, the rest is handled by Up. To make this process a bit cleaner, up.js provides a `Logger` as shown here:
 
 ```js
 const { Logger } = require('up')
