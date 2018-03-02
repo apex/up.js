@@ -1,5 +1,5 @@
 const { test } = require('ava')
-const Logger = require('./Logger')
+const Logger = require('./logger')
 
 class TestWriter {
 	constructor() {
